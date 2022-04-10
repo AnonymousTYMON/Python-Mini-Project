@@ -1,5 +1,3 @@
-#Need data: range, Min, max, average, mode, median,
-#Inter-quartile range, standard deviation, standard score
 import statistics
 class Stats():
 
